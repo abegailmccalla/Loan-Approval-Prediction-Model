@@ -1,1 +1,3 @@
-# Loan-Approval-Prediction-Model
+## Loan-Approval-Prediction-Model
+
+## Loan Approval Prediction Model (Python, Pandas, Scikit-Learn, TensorFlow, Jupyter Notebook): Engineered machine learning models using Logistic Regression, Decision Trees, Support Vector Machines, and a custom neural network to predict loan approvals, optimizing data pipelines through preprocessing, normalization, feature engineering, and overfitting analysis to enhance accuracy and generalization, ultimately achieving a 0.91259 Kaggle leaderboard score that demonstrated strong, competitive predictive performance and effective model tuning in a real-world evaluation environment
